@@ -49,11 +49,17 @@ dass verschiedene Coins verschieden viele Punkte geben. Das hat so halb gut funk
 
 ### 02.12.2023
 ##### Das habe ich heute vor
-- [ ] Mit dem Player für mein eigenes Spiel beginnen
+- [x] ~Mit dem Player für mein eigenes Spiel beginnen~
 
 ##### Das habe ich heute gemacht
-Ich habe das Coinsystem repariert. Ich habe s aber nicht gemacht wie im Tutorial, <br>
-sondern habe es so gemacht wie es auch davor sein sollte, nur anders geschrieben. <br>
+Ich habe das Coinsystem im Tutorial repariert. Ich habe s aber nicht gemacht wie im Video, <br>
+sondern habe es so gemacht wie es auch davor sein sollte, nur anders geschrieben. Später habe ich mit dem Hauptprojekt angefangen. <br>
+Zuerst hat der Unity Hub etwas gespinnt, aber das habe ich nach 1 Stunde behoben bekommen. <br>
+Ich wollte erst ein anderes Asset nehmen, aber dann habe ich mich doch für das Gleiche wie im Tutorial entschieden. <br>
+Ich habe zwar viel abgeschrieben, aber ich habe alles verstanden. <br>
+
+##### ToDo's
+- [ ] C# Lernvideo weiterschauen
 
 
 # Selbstreflexion
@@ -84,7 +90,21 @@ Ich bin mit meiner heutigen Leistung sehr zufrieden. <br>
 - Ich habe heute den Großteil von dem, was ich geschrieben habe verstanden
 
 ##### Das lief nicht gut
-- mein eigener Code funktioniert nicht richtig
+- Mein eigener Code funktioniert nicht richtig
 
 
 ### 02.12.2023
+Ich wollte heute ürsprunglich Pause machen. Ich kam dann doch auf die Idee das Coinsystem zu reparieren. <br>
+später hatte ich dann doch noch Lust mit dem Hauptprojekt anzufangen. Ich merke, <br>
+dass mein Verständnis von Unity und C# immer besser wird. Ich habe schon alles verstanden, was ich heute abgetippt habe, <br>
+aber aus dem Kopf hätte ich das nicht alles hinbekommen. Ich merke, dass mir noch das Verständnis dafür fehlt, <br>
+welche möglichkeiten ich habe (und welche ich nicht habe) und wann ich was benutze. <br>
+
+##### Das lief gut
+- Ich habe alles verstanden
+- Ich habe selbstständig (ohne Video) gearbeitet
+- Ich habe meinen erstes funktionierendes selbst geschriebenes Codestück
+
+##### Das lief nicht gut
+- Ich hatte ein paar Probleme mit dem Unity Hub
+- Ich konnte fast nichts aus dem Kopf schreiben
