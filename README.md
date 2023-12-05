@@ -59,7 +59,14 @@ Ich wollte erst ein anderes Asset nehmen, aber dann habe ich mich doch für das 
 Ich habe zwar viel abgeschrieben, aber ich habe alles verstanden. <br>
 
 ##### ToDo's
-- [ ] C# Lernvideo weiterschauen
+- [x] ~C# Lernvideo weiterschauen~
+
+### 04.12.2023
+Heute habe ich das Lernvideo weitergeschaut. Ich habe viel über Arrays und Switchblöcke gelernt <br>
+Dannach habe ich im Tutorial Gegner und Spikes hinzugefügt und den GameOver Screen gemacht. <br>
+
+##### ToDo's
+- [ ] Lernvideo zu C# mit Unity suchen
 
 
 # Selbstreflexion
