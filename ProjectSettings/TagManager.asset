@@ -4,7 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
+  - ground
+  - Text
+  - CoinB
+  - CoinS
+  - CoinG
+  - Spike
+  - Enemy
+  - Goal
   layers:
   - Default
   - TransparentFX
