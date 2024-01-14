@@ -52,7 +52,7 @@ dass verschiedene Coins verschieden viele Punkte geben. Das hat so halb gut funk
 - [x] ~Mit dem Player für mein eigenes Spiel beginnen~
 
 ##### Das habe ich heute gemacht
-Ich habe das Coinsystem im Tutorial repariert. Ich habe s aber nicht gemacht wie im Video, <br>
+Ich habe das Coinsystem im Tutorial repariert. Ich habe es aber nicht gemacht wie im Video, <br>
 sondern habe es so gemacht wie es auch davor sein sollte, nur anders geschrieben. Später habe ich mit dem Hauptprojekt angefangen. <br>
 Zuerst hat der Unity Hub etwas gespinnt, aber das habe ich nach 1 Stunde behoben bekommen. <br>
 Ich wollte erst ein anderes Asset nehmen, aber dann habe ich mich doch für das Gleiche wie im Tutorial entschieden. <br>
@@ -62,12 +62,17 @@ Ich habe zwar viel abgeschrieben, aber ich habe alles verstanden. <br>
 - [x] ~C# Lernvideo weiterschauen~
 
 ### 04.12.2023
-Heute habe ich das Lernvideo weitergeschaut. Ich habe viel über Arrays und Switchblöcke gelernt <br>
+Heute habe ich das Lernvideo weitergeschaut. Ich habe viel über Arrays und Switchblöcke gelernt. <br>
 Dannach habe ich im Tutorial Gegner und Spikes hinzugefügt und den GameOver Screen gemacht. <br>
 
 ##### ToDo's
 - [ ] Lernvideo zu C# mit Unity suchen
 
+
+### 17.12.2023
+Ich habe über längere Zeit nichtmehr dokumentiert, habe aber viel am Projekt gearbeitet. <br>
+Ich habe im Tutorial die Handy Steuerung hinzugefügt, Level 1 und 2, einen Main Screen, eine Levelauswahl und einen Setting Screen erstellt. <br>
+Ich möchte heute im Hauptprojekt weiter machen.
 
 # Selbstreflexion
 ### 29.11.2023
